@@ -33,9 +33,10 @@ Npcap
 CodeAlpha-BasicNetworkSniffer/
 │
 ├── networksniffer.py      # Python script to capture and analyze packets
-├── demo_video.mp4         # Demonstration video of the sniffer in action
+├── 2025-09-25-17-52-38_XTkq85of.mp4       # Demonstration video of the sniffer in action
 ├── images/                # Folder containing screenshots and illustrations
-│   └── packet_capture.png
+│   └── python and scapy
+│   └── list of interfaces
 └── README.md              # Main project documentation
 
 # How to Run
